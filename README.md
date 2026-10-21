@@ -1,7 +1,7 @@
 # Tax Safety Lab
 
 A fictional tax-filing compliance screen for LLM agents, plus the data and
-analysis behind a personal research blog post.
+analysis behind a personal research blog post. https://forum.effectivealtruism.org/posts/NRitrEEGYRg8n72Hx/73-credits-is-honest-80-is-a-gamble?utm_campaign=post_share&utm_source=link
 
 > **Scope and disclaimers — read first**
 >
